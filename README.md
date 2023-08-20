@@ -1,4 +1,4 @@
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository and MySql Typeorem
+[Nest](https://github.com/nestjs/nest) and MySql Typeorem
 
 ## Installation
 
